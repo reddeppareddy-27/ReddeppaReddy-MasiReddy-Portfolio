@@ -8,7 +8,7 @@ const words = ["Hello", "Welcome", "Bonjour", "Hola"];
 const pageNames = {
   "/": "Home",
   "/about": "About",
-  "/portfolio": "Portfolio",
+  "/portfolio": "Projects",
   "/certification": "Certifications",
   "/contact": "Contact"
 };
