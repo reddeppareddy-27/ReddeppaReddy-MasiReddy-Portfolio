@@ -13,21 +13,21 @@ const slider1 = [
 const slider2 = [
   { color: "#d4e3ec", src: "/images/py.png" },
   { color: "#e5e0e1", src: "/images/prog.png" },
-  { color: "#d7d4cf", src: "/images/rbi.png" },
-  { color: "#e1dad6", src: "/images/andra.png" },
+  { color: "#d7d4cf", src: "/images/AWS.png" },
+  { color: "#e1dad6", src: "/images/inlighn.jpeg" },
 ];
 const slider3 = [
-  { color: "#e3e5e7", src: "/images/iit.png" },
+  { color: "#e3e5e7", src: "/images/DE.png" },
   { color: "#d6d7dc", src: "/images/DS1.png" },
   { color: "#e3e3e3", src: "/images/DS2.png" },
-  { color: "#21242b", src: "/images/Django.png" },
+  { color: "#21242b", src: "/images/rbi.png" },
 ];
 
 const slider4 = [
-  { color: "#d4e3ec", src: "/images/SID QUIZ.jpg" },
-  { color: "#e5e0e1", src: "/images/SID HACK.jpg" },
-  { color: "#d7d4cf", src: "/images/ASSOC.jpg" },
-  { color: "#e1dad6", src: "/images/pad.jpg" },
+  { color: "#d4e3ec", src: "/images/Gen AI.png" },
+  { color: "#e5e0e1", src: "/images/DA.png" },
+  { color: "#d7d4cf", src: "/images/DAP.png" },
+  { color: "#e1dad6", src: "/images/R.png" },
 ];
 
 const Certifications = () => {
